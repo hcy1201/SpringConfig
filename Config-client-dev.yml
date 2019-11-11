@@ -1,0 +1,5 @@
+data:
+  env: Config-client-dev
+  user:
+    username: Config-client-dev
+    password: halo801201
