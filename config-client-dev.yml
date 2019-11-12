@@ -1,5 +1,5 @@
 data: 
-  env: config-client-dev-halo
+  env: config-client-dev-halo-hcy
   user: 
     name: config-client-dev
     password: halo801201
